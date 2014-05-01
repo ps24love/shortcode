@@ -16,5 +16,5 @@
             "Ps24love\\Shortcode": "src/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
