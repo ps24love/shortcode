@@ -1,0 +1,20 @@
+{
+    "name": "ps24love/shortcode",
+    "description": "",
+    "authors": [
+        {
+            "name": "ps24love",
+            "email": "ps24love2@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Ps24love\\Shortcode": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
