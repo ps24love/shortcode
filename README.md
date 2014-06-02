@@ -6,6 +6,7 @@ Open your composer.json file, and add the new required package.
 
 ```
   "ps24love/shortcode": "dev-master"
+```
 
 Next, open a terminal and run.
 
